@@ -11,3 +11,4 @@ Cups toward next free drink: 2
 Stamp Card Issued: true
 Qualifies for Bulk Discount (₱500+): true
 ========================================
+<!-- Completed Lab Submission -->
